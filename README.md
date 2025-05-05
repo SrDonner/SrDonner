@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SrDonner
 - 👀 Interested in reading, coding, listening to music and playing games.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python and Germany.
 - 📫 Contact: contacto.srdonner@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Mom told me I'm handsome.
